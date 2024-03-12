@@ -1,0 +1,1 @@
+Plz place those scripts in the main directory to run them !!
