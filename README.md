@@ -1,4 +1,4 @@
-Original Code: https://github.com/Rudrabha/Wav2Lip
+This repo is based upon: https://github.com/Rudrabha/Wav2Lip
 
 ## Installation
 
