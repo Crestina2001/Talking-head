@@ -140,3 +140,21 @@ python contentvec_preprocess.py --data_root preprocessed --contentvec_checkpoint
 
 ## Train the SyncNet
 
+copy the my_scripts/contentvec_syncnet_train.py into the main directory
+
+Run the following code(suppose your data is stored in the folder named preprocessed):
+
+```
+python contentvec_syncnet_train.py
+```
+
+## Train the Wav2Lip
+
+copy the my_scripts/contentvec_train.py into the main directory
+
+Run the following code(suppose your data is stored in the folder named preprocessed):
+
+```
+python contentvec_train.py
+```
+
