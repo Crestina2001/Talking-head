@@ -2,7 +2,7 @@ This repo is based upon: https://github.com/Rudrabha/Wav2Lip
 
 ## Demo
 
-![](./demo/001.mp4)
+[View Demo Video](demo/001.mp4)
 
 ## Installation
 
